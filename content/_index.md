@@ -1,4 +1,4 @@
 ---
-title: Hello world
+title: Home
+layout: home
 ---
-Your content here...

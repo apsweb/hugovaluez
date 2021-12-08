@@ -4,8 +4,14 @@
   <url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/contact/</loc>
+  </url><url>
+    <loc>/vacature/eerste-vacature/</loc>
+  </url><url>
     <loc>/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/vacature/</loc>
   </url>
 </urlset>

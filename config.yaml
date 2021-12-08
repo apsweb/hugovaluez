@@ -1,0 +1,17 @@
+baseURL: "https://www.valuez.preview.usecue.com/"
+languageCode: "nl-NL"
+title: "Valuez"
+
+params:
+  description: "Valuez Recruitment & Coaching is een gespecialiseerd werving & selectie bureau, gericht op het matchen van Sales & Marketing professionals in de Benelux. Wij brengen organisaties en kandidaten in de branches Healthcare & Pharma, FMCG & Lifestyle en Construction & Engineering nader tot elkaar."
+
+disableKinds: 
+  - taxonomy
+  - taxonomyTerm
+  - term
+  - RSS
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

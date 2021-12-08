@@ -15,6 +15,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+<<<<<<< HEAD
 
 permalinks:
   vacature: /:title/:id/
+=======
+      
+>>>>>>> c24d422ec63e25939da9c35153bde4687a90e542

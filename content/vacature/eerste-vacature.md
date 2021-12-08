@@ -6,7 +6,7 @@ description: Ben jij opzoek naar een afwisselende fulltimebaan als Customer Care
 sector: Automotive
 company: Valuez
 education:
-hours: "40"
+hours: Full-time
 logo: /images/valuez-logo.png
 location: Houten
 lat: "52.040162266828666"

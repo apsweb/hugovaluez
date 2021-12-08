@@ -16,5 +16,6 @@ markup:
     renderer:
       unsafe: true
 
-# permalinks:
-#   vacature: /:title/:id/
+permalinks:
+  jobs: /vacature/:filename
+  sectors: /sectoren/:filename

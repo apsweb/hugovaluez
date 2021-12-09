@@ -3,7 +3,7 @@ date: "24-02-2021"
 id: "100743"
 title: Customer Care Specialist
 description: Ben jij opzoek naar een afwisselende fulltimebaan als Customer Care Specialist in een leuk enthousiast team? Solliciteer dan vandaag nog!
-sector: Automotive
+sector: automotive
 company: Valuez
 education:
 hours: Full-time
